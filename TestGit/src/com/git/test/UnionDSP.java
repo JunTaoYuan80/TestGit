@@ -7,4 +7,7 @@ public class UnionDSP {
 		System.out.println("hello dsp");
 	}
 
+	public static void t(){
+		
+	}
 }
