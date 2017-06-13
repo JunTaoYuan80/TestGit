@@ -9,5 +9,9 @@ public class Test {
 		System.out.println("STW---master");
 		System.out.println("STW-------dev111");
 	}
+	
+	public static void t(){
+		
+	}
 
 }
