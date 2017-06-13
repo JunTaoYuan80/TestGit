@@ -10,8 +10,12 @@ public class Test {
 		System.out.println("STW-------dev111");
 	}
 	
-	public static void t(){
+	public static void t1(){
 		System.out.println("aaaaaaaaa");
+	}
+	
+	public static void t2(){
+		System.out.println("bbbbbb");
 	}
 
 }
